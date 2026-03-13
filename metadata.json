@@ -1,0 +1,5 @@
+{
+  "name": "QKart",
+  "description": "A modern, production-quality e-commerce web application similar to Amazon, featuring product listings, cart, checkout, and authentication.",
+  "requestFramePermissions": []
+}
